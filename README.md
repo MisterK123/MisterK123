@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MisterK123
-- 👀 I’m interested in coding, cyber security, software development
+- 👀 I’m interested in coding, cyber security and software development
 - 🌱 I’m currently learning c# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
